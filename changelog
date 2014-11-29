@@ -1,0 +1,6 @@
+
+0.2 29nov2014
+* use Tom's weewx.css skin for a more weewx(ish) look'n'feel
+
+0.1 28nov2014
+* initial version based on Matthew's pmon 0.2 and Tom's mem.py from v2

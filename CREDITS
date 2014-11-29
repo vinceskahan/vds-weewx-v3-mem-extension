@@ -1,0 +1,29 @@
+
+The question of memory usage, and potentially memory leaks, is something
+that comes up frequently on the weewx Google Group.
+
+In the past Tom posted some code that used some typically unused fields
+in the standard weewx database for v2 weewx.
+
+Similarly, Matthew Wall has provided his pmon and cmon extensions that
+took a different measurement tact ('ps' versus '/proc').
+
+Most recently Matthew updated pmon to v0.2 as a demonstration extension
+using the new v3 feature that supports multiple databases.
+
+This extension combines the two essentially.
+
+For clarity, I've removed any copyright notices and version identifiers
+from Matthew's orginal work, mainly so nobody's confused re: who did what.
+
+At the same time, I want to definitely recognize (and thank) mwall for
+doing the heavy lifting and sharing his extension with the weewx community,
+as well as Tom as always for weewx.
+
+To summarize:
+  - all the credit for this one should go to Matthew/Tom.
+  - any blame of course should go to me :-)
+
+vinceskahan@gmail.com
+11/28/2014
+
