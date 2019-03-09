@@ -5,6 +5,8 @@ Tom's memory monitor updated to v3
  - vinceskahan@gmail.com 2014-1129
 =========================================================
 
+# update 2019-0308: this requires python3
+
 This example illustrates how to implement a service and package it so that it
 can be installed by the extension installer.  The mem service collects memory
 usage information about a single process then saves it in its own database.
