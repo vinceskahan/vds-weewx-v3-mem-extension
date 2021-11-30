@@ -1,6 +1,6 @@
 
 ===========================================================================
-=========================================================
+
 Tom's memory monitor updated to v3
 (based on Matthew Wall's mem demonstration extension)
  - vinceskahan@gmail.com 2014-1129
