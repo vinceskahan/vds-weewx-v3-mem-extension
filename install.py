@@ -17,7 +17,7 @@ def loader():
 class MemoryMonitorInstaller(ExtensionInstaller):
     def __init__(self):
         super(MemoryMonitorInstaller, self).__init__(
-            version="1.1",
+            version="1.2",
             name='mem',
             description='Collect and display process memory usage.',
             author="Vince Skahan",
